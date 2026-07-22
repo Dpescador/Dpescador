@@ -21,6 +21,7 @@ Também sou estudante de C# no udemy e Microsoft Azure Essentials no [web.dio.me
 - Microsoft Power BI
 - Microsoft Power Query
 - Levantamento de requisitos
+- História de usuário
 - DAX (Expressões de análise de dados)
 - SQL
 
