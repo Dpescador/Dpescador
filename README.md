@@ -32,10 +32,39 @@ Também sou estudante de C# no udemy e Microsoft Azure Essentials no [web.dio.me
 # 💻Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Dpescador&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dpescador&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dpescador&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=Dpescador&show_icons=true&theme=react&hide_border=true&include_all_commits=true"
+    alt="Estatísticas do GitHub"
+  />
+
+<img 
+ height="180em"
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dpescador&theme=react&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5"
+ alt="Linguagens mais utilizadas"
+/>
+
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Dpescador&theme=react&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições no GitHub"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Dpescador&label=Visualizações%20do%20perfil&color=0e75b6&style=flat"
+    alt="Visualizações do perfil"
+  />
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dpescador&icon=0&color=0)](https://visitcount.itsvg.in)
